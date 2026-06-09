@@ -1,4 +1,4 @@
-# 
+# 新 WizTree 模板 Mac OS版 | 即时 WizTree 模板 PC Windows版。集成 分卷压缩 和 拖拽支持，跨平台性能最大化。
 
 
 
